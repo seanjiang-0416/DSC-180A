@@ -4,11 +4,11 @@ The project mainly focus on creating a fact-checking system by including factual
 
 
 ## Retrieving the data locally
-(1) Preprocessed data stored in data file locally
-(2) Politifact.com raw data stored at: https://drive.google.com/file/d/1hHS3oUW7H1KdC341LeYAsroaJiWWcnL7
-(3) Liar Liar Plus dataset from https://github.com/Tariq60/LIAR-PLUS
-(4) Contexual Shift Preprocessed data: https://drive.google.com/file/d/16ohLi5nbC0yYk6oNou8YArLQY2cxnQWm
-(5) Political affiliation dataset from: https://www.kaggle.com/datasets/kapastor/democratvsrepublicantweets
+(1) Preprocessed data stored in data file locally <br>
+(2) Politifact.com raw data stored at: https://drive.google.com/file/d/1hHS3oUW7H1KdC341LeYAsroaJiWWcnL7 <br>
+(3) Liar Liar Plus dataset from https://github.com/Tariq60/LIAR-PLUS <br>
+(4) Contexual Shift Preprocessed data: https://drive.google.com/file/d/16ohLi5nbC0yYk6oNou8YArLQY2cxnQWm <br>
+(5) Political affiliation dataset from: https://www.kaggle.com/datasets/kapastor/democratvsrepublicantweets <br>
 
 ## Running the project
 
